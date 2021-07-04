@@ -1,0 +1,6 @@
+encrypt:
+#  key: springcloudencrptykey
+  key-store:
+    location: file:///${user.home}\IdeaProjects\keystore\privatetestkey.jks
+    password: 123456
+    alias: privatetestkey

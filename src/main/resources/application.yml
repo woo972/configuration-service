@@ -10,3 +10,4 @@ spring:
       server:
         git:
           uri: https://github.com/woo972/configuration-repogitory
+
